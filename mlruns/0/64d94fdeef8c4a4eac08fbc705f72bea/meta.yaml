@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sandeshlamichhane/Desktop/Coding%20Projects/NLP%20project/mlruns/0/64d94fdeef8c4a4eac08fbc705f72bea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64d94fdeef8c4a4eac08fbc705f72bea
+run_name: ./results2
+run_uuid: 64d94fdeef8c4a4eac08fbc705f72bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681233700303
+status: 1
+tags: []
+user_id: sandeshlamichhane
