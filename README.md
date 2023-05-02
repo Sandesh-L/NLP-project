@@ -1,3 +1,3 @@
-# Bluelight-NLP
+# Improving Models for Drug-Related Datasets from Social Media
 
-Put the output from cralwing in a HTMl formatter like https://webformatter.com/html to better see the results.
+To run the models, simply run the associatted ipynb file. Be aware that the models will try to take more than 12 GB of ram if you are running them in colab
